@@ -1,3 +1,7 @@
+/*! usability.js - v1.0 - 2018-09-09
+* Flamingos are pretty badass!
+* Copyright (c) 2018 Max van der Schee; Licensed MIT */
+
 // global variables
 var height = document.body.clientHeight,
     width = document.body.clientWidth,
