@@ -1,3 +1,4 @@
+![](preview.png)
 # Audio as indication where to start
 
 A product landing page with mouse tracking for indication where to start reading.
