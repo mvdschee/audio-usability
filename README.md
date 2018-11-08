@@ -1,13 +1,11 @@
-![](preview.png)
 # Audio as indication where to start
 
 A product landing page with mouse tracking for indication where to start reading.
 ![](https://cdn-images-1.medium.com/max/1000/1*YDYLe941YI_Tu33JM9okuQ.png)
 
+[Medium post](https://medium.com/@maxvanderschee/the-muted-web-and-how-to-fix-it-5bdb65362e36)
 
-[Article on Medium](https://medium.com/@maxvanderschee/the-muted-web-and-how-to-fix-it-5bdb65362e36)
-
-[Demo](http://dev-attic.com/01.audio/usability.html)
+[Demo](https://demo.dev-attic.com/audio-usability/usability.html)
 
 ## Credits
 
@@ -18,7 +16,7 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-Follow Me: [Medium](https://medium.com/@maxvanderschee), [GitHub](https://github.com/mvdschee)
+Follow Me: [Medium](https://medium.com/@maxvanderschee), [GitHub](https://github.com/mvdschee), [Twitter](https://twitter.com/maxvanderschee)
 
 [© Max van der Schee 2018](https://maxvanderschee.nl)
 
